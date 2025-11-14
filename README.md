@@ -1,18 +1,17 @@
-# kelompok_abdiel_soltan_firas
 Deskripsi Proyek
-Proyek ini merupakan pengembangan aplikasi bergerak (mobile application) menggunakan Flutter yang terhubung dengan Firebase. Fokus utama aplikasi adalah melakukan operasi CRUD (Create, Read, Update, Delete) pada data yang disimpan di Firebase Firestore Database.
-Aplikasi ini memiliki fitur:
-Login berbasis User ID yang diverifikasi melalui data pada Firestore.
-Halaman beranda untuk menampilkan data dari database.
-Halaman Create Data untuk menambahkan informasi baru yang langsung tersimpan di Firebase
-Fitur Delete Data yang menghapus data dari Firestore secara real-time.
-Menu About App yang menjelaskan informasi mengenai aplikasi.
-Dokumen juga menjelaskan langkah-langkah setup project, mulai dari membuat project Firebase, menghubungkan Flutter menggunakan FlutterFire CLI, konfigurasi Firestore dalam mode test, hingga menjalankan project di device.
-Secara keseluruhan, proyek ini bertujuan untuk mempraktikkan penggunaan Firebase pada aplikasi Flutter, memahami arsitektur back-end berbasis cloud, dan mengimplementasikan CRUD untuk aplikasi mobile.
+
+Proyek ini merupakan pengembangan aplikasi bergerak (mobile application) menggunakan Flutter yang terhubung dengan Firebase. Fokus utama aplikasi adalah mengimplementasikan operasi CRUD (Create, Read, Update, Delete) pada data yang disimpan di Firebase Firestore Database.
+
+Aplikasi ini memiliki beberapa fitur utama, yaitu login berbasis User ID yang diverifikasi melalui data pada Firestore, halaman beranda untuk menampilkan data dari database, halaman Create Data untuk menambahkan informasi baru yang langsung tersimpan di Firebase, serta fitur Delete Data yang memungkinkan penghapusan data secara real-time. Aplikasi ini juga menyediakan halaman About App yang berisi informasi umum mengenai proyek.
+
+Dokumen proyek turut menjelaskan langkah-langkah setup, mulai dari pembuatan project di Firebase, proses sinkronisasi dengan Flutter menggunakan FlutterFire CLI, konfigurasi Firestore dalam mode test, hingga menjalankan aplikasi pada perangkat.
+
+Secara keseluruhan, proyek ini bertujuan untuk mempraktikkan penggunaan Firebase dalam aplikasi Flutter, memahami arsitektur back-end berbasis cloud, serta mengimplementasikan operasi CRUD sebagai dasar pengelolaan data pada aplikasi mobile.
+
 Nama Kelompok
+
 Abdiel Zikri Ar Rijal (2303421029)
-Soltan Hanifa	 (2303421044)
-Firas Adityawarman  (2303421046)
 
+Soltan Hanifa (2303421044)
 
-
+Firas Adityawarman (2303421046)
